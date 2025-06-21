@@ -1,4 +1,4 @@
-# Agent Performance Dashboard
+# Agent Performance Analysis
 
 A full-stack web application for analyzing and predicting insurance agent performance using machine learning.
 
