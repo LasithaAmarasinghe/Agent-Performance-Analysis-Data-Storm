@@ -2,7 +2,7 @@
 
 A full-stack web application for analyzing and predicting insurance agent performance using machine learning algorithms and interactive data visualizations.
 
-## Methodology
+## 📝 Methodology
 
 1. **Data Preprocessing:**  
    - Selected relevant performance features such as new policy count, net income, conversion rates, and others.
@@ -19,7 +19,7 @@ A full-stack web application for analyzing and predicting insurance agent perfor
    - Calculated composite scores for each cluster by assigning weighted importance to key performance features.
    - Ranked the agents by their performance level (High, Medium, Low) based on the cluster scores.
 
-## Features
+## 🌟 Features
 
 - **Real-time Agent Performance Predictions:**  
    Predict the performance level of agents based on the latest data.
@@ -42,7 +42,7 @@ Here’s a quick demo of the **Agent Performance Analysis Dashboard**:
 
 [![▶️ Watch the demo](https://github.com/user-attachments/assets/34283af6-2ade-48b5-a2c0-504957d5de3a)](https://vimeo.com/1095185875/1dcc9a8790?share=copy)
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 ### Frontend
 - React 19
@@ -65,7 +65,7 @@ Here’s a quick demo of the **Agent Performance Analysis Dashboard**:
 - npm or yarn
 - pip
 
-## Installation
+## 📥 Installation
 
 1. Clone the repository:
 ```bash
@@ -85,7 +85,7 @@ cd backend
 pip install -r requirements.txt
 ```
 
-## Running the Application
+## 🚀 Running the Application
 
 1. Start the backend server:
 ```bash
@@ -101,7 +101,7 @@ npm start
 ```
 The frontend will be available at http://localhost:3000
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 .
@@ -115,7 +115,7 @@ The frontend will be available at http://localhost:3000
     └── train.py         # Machine learning model training
 ```
 
-## Available Scripts
+##  📄 Available Scripts
 
 In the frontend directory, you can run:
 
@@ -124,9 +124,16 @@ In the frontend directory, you can run:
 - `npm run build` - Builds the app for production
 - `npm run eject` - Ejects from Create React App
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 - Create React App for the frontend boilerplate
 - Material-UI for the component library
 - FastAPI for the backend framework
-- Chart.js for data visualization 
+- Chart.js for data visualization
+
+## 👥 Contributors
+
+- Lasitha Amarasinghe
+- Induwara Morawakgoda
+- Thakshaka Rathnayake
+  
