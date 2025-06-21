@@ -58,7 +58,7 @@ Here’s a quick demo of the **Agent Performance Analysis Dashboard**:
 - Scikit-learn
 - NumPy
 
-## Prerequisites
+## 🛠️ Prerequisites
 
 - Node.js (v14 or later)
 - Python 3.7+
