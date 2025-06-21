@@ -36,6 +36,11 @@ A full-stack web application for analyzing and predicting insurance agent perfor
 - **RESTful API Backend:**  
    A Python-based backend using FastAPI to handle requests and serve predictions.
 
+## 🎥 Demo
+
+Here’s a quick demo of the **Agent Performance Analysis Dashboard**:
+
+[![▶️ Watch the demo](https://github.com/user-attachments/assets/34283af6-2ade-48b5-a2c0-504957d5de3a)](https://vimeo.com/1095185875/1dcc9a8790?share=copy)
 
 ## Tech Stack
 
